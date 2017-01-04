@@ -37,7 +37,7 @@ public class ShoppingActivity extends AppCompatActivity {
     private void setupViewPager(ViewPager viewPager) {
         ShoppingActivity.ViewPagerAdapter adapter = new ShoppingActivity.ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new StreetShopping(), "Markets");
-        //adapter.addFragment(new FoodTwoFragment(), "Restaurants");
+        adapter.addFragment(new Malls(), "Malls");
         viewPager.setAdapter(adapter);
     }
 

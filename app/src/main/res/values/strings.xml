@@ -101,4 +101,20 @@
     <string name="mapStreetMarket4">https://goo.gl/maps/wjthyd2yqop</string>
     <string name="mapStreetMarket5">https://goo.gl/maps/CD2h9Aw9xb12</string>
 
+    <string name="Market1">Select CITYWALK</string>
+    <string name="Market2">DLF Place Saket</string>
+    <string name="Market3">DLF Promenade</string>
+    <string name="Market4">Ambience Mall</string>
+    <string name="Market5">Pacific Mall</string>
+    <string name="AMarket1">Saket, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017</string>
+    <string name="AMarket2">Saket, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017</string>
+    <string name="AMarket3">3, Nelson Mandela Marg, Vasant Kunj Malls,  Vasant Kunj, New Delhi, Delhi 110070</string>
+    <string name="AMarket4">2, Nelson Mandela Marg, Vasant Kunj Malls,  Vasant Kunj, New Delhi, Delhi 110070</string>
+    <string name="AMarket5">Subhash Nagar Metro Station, Block 6, Tilak Nagar, New Delhi, Delhi 110018</string>
+    <string name="mapMarket1">https://goo.gl/maps/c5xmCRyY98U2</string>
+    <string name="mapMarket2">https://goo.gl/maps/zy1qbaD9ztx</string>
+    <string name="mapMarket3">https://goo.gl/maps/gRBfTJUwGMu</string>
+    <string name="mapMarket4">https://goo.gl/maps/eKTxNFpnio42</string>
+    <string name="mapMarket5">https://goo.gl/maps/ErZeUeL3F6N2</string>
+
 </resources>

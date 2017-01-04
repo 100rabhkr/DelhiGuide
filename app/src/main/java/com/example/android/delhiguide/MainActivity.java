@@ -45,6 +45,18 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(shopIntent);
             }
         });
+        TextView top = (TextView)findViewById(R.id.top7places);
+        top.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // Create a new intent to open the {@link FoodActivity}
+                Intent shopIntent = new Intent(MainActivity.this, Selection.class);
+                // Start the new activity
+                startActivity(shopIntent);
+            }
+        });
+
+
 
 
 

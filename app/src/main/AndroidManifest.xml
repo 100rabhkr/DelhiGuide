@@ -15,9 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PlacesActivity"
-            android:label="Places">
-        </activity>
+        <activity
+            android:name=".PlacesActivity"
+            android:label="Places" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".ShoppingActivity"></activity>
     </application>
 
 </manifest>

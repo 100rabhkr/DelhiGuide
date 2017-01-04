@@ -24,6 +24,28 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        TextView food = (TextView)findViewById(R.id.food);
+        food.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // Create a new intent to open the {@link FoodActivity}
+                Intent foodIntent = new Intent(MainActivity.this, Main2Activity.class);
+                // Start the new activity
+                startActivity(foodIntent);
+            }
+        });
+
+        TextView shop = (TextView)findViewById(R.id.shopping);
+        shop.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // Create a new intent to open the {@link FoodActivity}
+                Intent shopIntent = new Intent(MainActivity.this, ShoppingActivity.class);
+                // Start the new activity
+                startActivity(shopIntent);
+            }
+        });
+
 
 
 

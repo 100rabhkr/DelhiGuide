@@ -52,4 +52,53 @@
     <string name="mapclub5">https://goo.gl/maps/nV2R1EFhPUv</string>
 
 
+    <string name="streetfood1">Karim\'s</string>
+    <string name="streetfood2">Great Indian Food</string>
+    <string name="streetfood3">Lala Babu Chaat Bhandar</string>
+    <string name="streetfood4">61 Street Food Court</string>
+    <string name="streetfood5">27 China Street</string>
+    <string name="Astreetfood1">19 Kalan Mehal, Chandni Chowk, Chandni Chowk, Delhi, 110002</string>
+    <string name="Astreetfood2">Shop No 6, Devli Rd, Jawahar Park, Khanpur, New Delhi, Delhi 110080</string>
+    <string name="Astreetfood3">62-opp. Mcdonald, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="Astreetfood4">Shop No.1, D-13/61, Near Sai Baba Chowk, Pradeep Bhatia Marg, Sector-8, Rohini, Delhi, 110085</string>
+    <string name="Astreetfood5">Shop No.27/A, Bazaar Marg,old Rajendra Nagar, Delhi, 110060</string>
+    <string name="mapstreetfood1">https://goo.gl/maps/6HA9oDQdWdF2</string>
+    <string name="mapstreetfood2">https://goo.gl/maps/G1fM1PPQTfw</string>
+    <string name="mapstreetfood3">https://goo.gl/maps/mhd4UV4SxuD2</string>
+    <string name="mapstreetfood4">https://goo.gl/maps/WH48bM8y7ju</string>
+    <string name="mapstreetfood5">https://goo.gl/maps/o7gS9DsJbBw</string>
+
+    <string name="food1">Akira Back - JW Marriott</string>
+    <string name="food2">Set\’z</string>
+    <string name="food3">The Project At Park Balluchi</string>
+    <string name="food4">Cafe Out Of the Box</string>
+    <string name="food5">Mia Bella</string>
+    <string name="Afood1">J W Marriott Hotel, Aerocity, Indira Gandhi International Airport, Aerocity, New Delhi 110037</string>
+    <string name="Afood2">405, Third Floor, DLF Emporio, 4, Nelson Mandela Road, Vasant Kunj, New Delhi 110070</string>
+    <string name="Afood3">Deer Park, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016</string>
+    <string name="Afood4">A, 2nd floor, Near, 9, Hauz Khas Tank, Deer Park, Hauz Khas, New Delhi, Delhi 110016 </string>
+    <string name="Afood5">50A, Third Floor, Hauz Khas Tank, Deer Park, Hauz Khas, New Delhi, Delhi 110016</string>
+    <string name="mapfood1">https://goo.gl/maps/QfVZXqiGEn92</string>
+    <string name="mapfood2">https://goo.gl/maps/hYenQLTw5WT2</string>
+    <string name="mapfood3">https://goo.gl/maps/pzbBwGRMPkR2</string>
+    <string name="mapfood4">https://goo.gl/maps/MkvgFqhi4tL2</string>
+    <string name="mapfood5">https://goo.gl/maps/TuoosrAguus</string>
+
+
+    <string name="StreetMarket1">Sarojini Nagar</string>
+    <string name="StreetMarket2">Lajpat Nagar</string>
+    <string name="StreetMarket3">J Block Market, Saket, New Delhi</string>
+    <string name="StreetMarket4">M-Block Market Gk 1</string>
+    <string name="StreetMarket5">Chandni Chowk Market</string>
+    <string name="AStreetMarket1">Sarojini Nagar, New Delhi, Delhi 110023</string>
+    <string name="AStreetMarket2">Central Market, Lajpat Nagar III, Lajpat Nagar, New Delhi, Delhi (state) 110024</string>
+    <string name="AStreetMarket3">Block N, Saket, New Delhi, Delhi (state) 110017</string>
+    <string name="AStreetMarket4">M Block, Greater Kailash I, Greater Kailash, New Delhi, Delhi 110048</string>
+    <string name="AStreetMarket5">Cloth Market, Katra Ghel, Khari Baoli, Chandni Chowk, New Delhi, Delhi (state) 110006</string>
+    <string name="mapStreetMarket1">https://goo.gl/maps/c5xmCRyY98U2</string>
+    <string name="mapStreetMarket2">https://goo.gl/maps/ZxuG4V8uBJo</string>
+    <string name="mapStreetMarket3">https://goo.gl/maps/GR44cV4Hir22</string>
+    <string name="mapStreetMarket4">https://goo.gl/maps/wjthyd2yqop</string>
+    <string name="mapStreetMarket5">https://goo.gl/maps/CD2h9Aw9xb12</string>
+
 </resources>

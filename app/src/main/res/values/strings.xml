@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DelhiGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monument1">Qutab Minar</string>
+    <string name="monument2">Humayun Tomb</string>
+    <string name="monument3">Raj Ghat</string>
+    <string name="monument4">India Gate</string>
+    <string name="monument5">Red Fort</string>
+    <string name="Amonument1">Mehrauli, New Delhi, Delhi 110030</string>
+    <string name="Amonument2">Mathura Road, Opp. Dargah Nizamuddin, New Delhi, Delhi 110013</string>
+    <string name="Amonument3">Gandhi Smriti, Raj Ghat, New Delhi, Delhi 110006</string>
+    <string name="Amonument4">Rajpath, India Gate, New Delhi, Delhi 110001</string>
+    <string name="Amonument5">Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="mapmonument1">https://goo.gl/maps/EdJ6itbMjEG2</string>
+    <string name="mapmonument2">https://goo.gl/maps/hRjhVmRfWJR2</string>
+    <string name="mapmonument3">https://goo.gl/maps/z6wrW269iFu</string>
+    <string name="mapmonument4">https://goo.gl/maps/bg2hkZ85gWT2</string>
+    <string name="mapmonument5">https://goo.gl/maps/wizkRuznH8J2</string>
+
+    <string name="park1">Garden of Five Senses</string>
+    <string name="park2">Lodhi Garden</string>
+    <string name="park3">Dear Park</string>
+    <string name="park4">Sanjay Van</string>
+    <string name="park5">Central Park</string>
+    <string name="Apark1">Mehrauli Badarpur Road, Said Ul Ajaib Village, New Delhi, Delhi 110030</string>
+    <string name="Apark2">Lodhi Rd, Lodhi Gardens, Lodhi Estate, New Delhi, Delhi 110003</string>
+    <string name="Apark3">Deer Park, Hauz Khas, New Delhi, Delhi 110016</string>
+    <string name="Apark4">New Delhi, Delhi 110016</string>
+    <string name="Apark5">Rajeev Chowk, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="mappark1">https://goo.gl/maps/ew8s7Y9MQKs</string>
+    <string name="mappark2">https://goo.gl/maps/rcimXtqU3NA2</string>
+    <string name="mappark3">https://goo.gl/maps/qguej25wGH12</string>
+    <string name="mappark4">https://goo.gl/maps/2GzeLJmVhCD2</string>
+    <string name="mappark5">https://goo.gl/maps/goyG5fhTHjN2</string>
+
+    <string name="club1">Kitty Su</string>
+    <string name="club2">Capitol</string>
+    <string name="club3">Tamasha</string>
+    <string name="club4">Odeon Social</string>
+    <string name="club5">HotMess Kitchen and Bar</string>
+    <string name="Aclub1">The Lalit Hotel ,Barakhamba Road, Opp Modern school ,Connaught Place, New Delhi, 110001</string>
+    <string name="Aclub2">The Ashok Hotel, 50-B, Ashok Hotel, Niti Marg, Chanakyapuri, New Delhi, Delhi 110021</string>
+    <string name="Aclub3">A 28, Anand House,, KG Marg, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="Aclub4">23, First Floor, Odeon Building, Radial Road 5, D Block, Connaught Place, New Delhi, 110011</string>
+    <string name="Aclub5">M-11, Middle Circle, Connaught Place, Block M, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="mapclub1">https://goo.gl/maps/gAt2eTdT8AN2</string>
+    <string name="mapclub2">https://goo.gl/maps/KH1CVvUSh4F2</string>
+    <string name="mapclub3">https://goo.gl/maps/YaeBU65jQ7r</string>
+    <string name="mapclub4">https://goo.gl/maps/2GzeLJmVhCD2</string>
+    <string name="mapclub5">https://goo.gl/maps/nV2R1EFhPUv</string>
+
+
+</resources>

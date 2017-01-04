@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.delhiguide.MainActivity">
+
+    <TextView
+        android:id="@+id/places"
+        style="@style/CategoryStyle"
+        android:background="@color/category_numbers"
+        android:text="Places" />
+
+    <TextView
+        android:id="@+id/food"
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:text="Food" />
+
+    <TextView
+        android:id="@+id/shopping"
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:text="Shopping" />
+
+    <TextView
+        android:id="@+id/top7places"
+        style="@style/CategoryStyle"
+        android:background="@color/category_phrases"
+        android:text="Top 7 places" />
+
+</LinearLayout>
+
